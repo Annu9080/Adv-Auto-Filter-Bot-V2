@@ -1641,7 +1641,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/TAMILROCKERS_ME'),
             
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/TAMILROCKERS_ME')
+            
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
