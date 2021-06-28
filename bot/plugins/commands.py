@@ -90,7 +90,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Developers', url='https://t.me/TAMILROCKERS_ME'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Annu9080/Adv-Auto-Filter-Bot-V2')
+        
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/TAMILROCKERS_ME')
     ],[
