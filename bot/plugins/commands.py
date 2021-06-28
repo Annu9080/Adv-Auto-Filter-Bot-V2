@@ -92,7 +92,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/TAMILROCKERS_ME'),
         
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/TAMILROCKERS_ME')
+        
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
